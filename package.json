@@ -4,7 +4,6 @@
   "description": "Deskripsi proyek Anda",
   "main": "server.js",
   "scripts": {
-    "prestart": "npm install",  // Menambahkan skrip untuk instalasi dependensi sebelum start
     "start": "node server.js"
   },
   "dependencies": {
